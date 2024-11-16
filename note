@@ -1,0 +1,7 @@
+create sensore package folder
+create setup.py and wirte a package code
+run python setup.py install
+create requirment.txt and mention the package name with version
+add the package in setup.py and run
+pip install requirements.txt
+it weill install the package
