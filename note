@@ -5,3 +5,11 @@ create requirment.txt and mention the package name with version
 add the package in setup.py and run
 pip install requirements.txt
 it weill install the package
+
+add -e .  in setup.py
+==========
+logger.py file in sensore(main) package
+for to debug the error and store the log
+
+exception.py to check the error in one place and see the error as per customise way
+
